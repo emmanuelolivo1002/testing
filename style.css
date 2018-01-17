@@ -1,3 +1,11 @@
 body {
   background-color: green;
 }
+
+h1 {
+  color: blue;
+}
+
+p {
+  background-color: pink;
+}
